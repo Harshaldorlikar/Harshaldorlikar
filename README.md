@@ -1,15 +1,27 @@
-👋 Hi, I'm Harshal Dorlikar
+# 👋 Hi, I'm Harshal Dorlikar
 
-📊 Data Analyst | 🧠 UX Research Enthusiast | 💻 Freelancer | 🚀 Founder of The Social Sphere
+🚀 **Entrepreneur | Tech Enthusiast | Problem Solver**  
+I'm passionate about building solutions that make everyday life easier and more efficient. Currently, I'm working on **Booz**, an alcohol delivery startup aimed at transforming the way people access their favorite beverages in Nagpur and beyond.
 
-🎓 Studying Electronic & Communication Engineering at RCOEM, Nagpur
+## 🌟 About Me
+- **Age**: 19
+- **Currently Working On**: Booz, an alcohol delivery service in Nagpur.
+- **Passionate About**: Technology, startups, and creating impactful products.
+- **Vision**: To revolutionize the alcohol delivery industry by making it more convenient, safe, and accessible.
 
-🔍 Experienced in UX research at Google | 💼 Worked with ITC, Amazon, MamaEarth
+## 🛠️ Technologies & Tools
+- **Languages**: Python, JavaScript, VBA
+- **Frameworks**: Flask, Node.js
+- **Tools**: Git, Docker, MySQL, Power BI
 
-💡 Basic skills in Python, Java, HTML, CSS | 📈 Data Analysis & Visualization
+## 📈 Current Focus
+- **Building**: A seamless logistics system for Booz.
+- **Learning**: Business strategies for scaling startups.
+- **Exploring**: Data-driven decision-making to enhance customer experience.
 
-🗣 Fluent in English, Hindi, Marathi
+## 💡 Get in Touch
+- **LinkedIn**: [linkedin.com/in/harshaldorlikar](https://www.linkedin.com/in/harshaldorlikar)
+- **Twitter**: [@harshaldorlikar](https://twitter.com/harshaldorlikar)
+- **Email**: harshaldorlikar@boozit.in
 
-🌟 Passionate about enhancing user experiences through data-driven insights.
-
-Let's connect and collaborate on exciting data projects!
+Let's build something amazing together!
