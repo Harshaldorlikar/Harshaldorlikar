@@ -4,7 +4,7 @@
 I'm passionate about building solutions that make everyday life easier and more efficient. Currently, I'm working on **Booz**, an alcohol delivery startup aimed at transforming the way people access their favorite beverages in Nagpur and beyond.
 
 ## 🌟 About Me
-- **Age**: 19
+- **Age**: 20
 - **Currently Working On**: Booz, an alcohol delivery service in Nagpur.
 - **Passionate About**: Technology, startups, and creating impactful products.
 - **Vision**: To revolutionize the alcohol delivery industry by making it more convenient, safe, and accessible.
