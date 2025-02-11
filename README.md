@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harshal Dorlikar
 
 🚀 **Entrepreneur | Tech Enthusiast | Problem Solver**  
-I'm passionate about building solutions that make everyday life easier and more efficient. Currently, I'm working on **Booz**, an alcohol delivery startup aimed at transforming the way people access their favorite beverages in Nagpur and beyond.
+I'm passionate about building solutions that make everyday life easier and more efficient. Currently, I'm working on **Booz**, an alcohol delivery startup to transform how people access their favorite beverages in Nagpur and beyond.
 
 ## 🌟 About Me
 - **Age**: 20
@@ -10,9 +10,9 @@ I'm passionate about building solutions that make everyday life easier and more 
 - **Vision**: To revolutionize the alcohol delivery industry by making it more convenient, safe, and accessible.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, JavaScript, VBA
+- **Languages**: Python, Java, JavaScript, VBA
 - **Frameworks**: Flask, Node.js
-- **Tools**: Git, Docker, MySQL, Power BI
+- **Tools**: Git, Docker, MySQL, MongoDB, Power BI, Bubble.io
 
 ## 📈 Current Focus
 - **Building**: A seamless logistics system for Booz.
@@ -23,5 +23,6 @@ I'm passionate about building solutions that make everyday life easier and more 
 - **LinkedIn**: [linkedin.com/in/harshaldorlikar](https://www.linkedin.com/in/harshaldorlikar)
 - **Twitter**: [@harshaldorlikar](https://twitter.com/harshaldorlikar)
 - **Email**: harshaldorlikar@boozit.in
+-  **Email**: harshaldorlikar112@gmail.com
 
 Let's build something amazing together!
