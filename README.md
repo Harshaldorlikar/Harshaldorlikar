@@ -10,7 +10,7 @@ I'm passionate about building solutions that make everyday life easier and more 
 
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, Java, JavaScript, VBA, Python
+- **Languages**: Python, Java, JavaScript, VBA,
 - **Frameworks**: Flask, Node.js
 - **Tools**: Git, Docker, MySQL, MongoDB, Power BI, Bubble.io
 
