@@ -5,17 +5,17 @@ I'm passionate about building solutions that make everyday life easier and more 
 
 ## 🌟 About Me
 - **Age**: 20
-- **Currently Working On**: Booz, an alcohol delivery service in Nagpur.
+- **Currently Working On**: AGENTOS.
 - **Passionate About**: Technology, startups, and creating impactful products.
-- **Vision**: To revolutionize the alcohol delivery industry by making it more convenient, safe, and accessible.
+
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, Java, JavaScript, VBA
+- **Languages**: Python, Java, JavaScript, VBA, Python
 - **Frameworks**: Flask, Node.js
 - **Tools**: Git, Docker, MySQL, MongoDB, Power BI, Bubble.io
 
 ## 📈 Current Focus
-- **Building**: A seamless logistics system for Booz.
+- **Building**: A Runtime Layer for agents to operate on.
 - **Learning**: Business strategies for scaling startups.
 - **Exploring**: Data-driven decision-making to enhance customer experience.
 
