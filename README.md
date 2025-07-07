@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Harshal Dorlikar
 
 🚀 **Entrepreneur | Tech Enthusiast | Problem Solver**  
-I'm passionate about building solutions that make everyday life easier and more efficient. Currently, I'm working on **Booz**, an alcohol delivery startup to transform how people access their favorite beverages in Nagpur and beyond.
+I'm passionate about building solutions that make everyday life easier and more efficient. Currently, I'm working on **AgentOS**.
 
 ## 🌟 About Me
-- **Age**: 20
+- **Age**: 21
 - **Currently Working On**: AGENTOS.
 - **Passionate About**: Technology, startups, and creating impactful products.
 
