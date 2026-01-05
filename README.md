@@ -22,7 +22,6 @@ I'm passionate about building solutions that make everyday life easier and more 
 ## 💡 Get in Touch
 - **LinkedIn**: [linkedin.com/in/harshaldorlikar](https://www.linkedin.com/in/harshaldorlikar)
 - **Twitter**: [@harshaldorlikar](https://twitter.com/harshaldorlikar)
-- **Email**: harshaldorlikar@boozit.in
 -  **Email**: harshaldorlikar112@gmail.com
 - **Portfolio**: https://www.harshaldorlikar.me/
 
