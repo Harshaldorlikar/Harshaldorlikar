@@ -37,4 +37,4 @@ Kosmo is an AI Prompt Compiler that automatically injects expert guardrails, str
 For personal stuff: **HarshalDorlikar112@gmail.com**
 For Kosmo: **harshal@askkosmo.com**
 
-[Portfolio](https://harshaldorlikar.me) | [LinkedIn](https://linkedin.com/in/harshaldorlikar) | [X](https://x.com/harshaldorlikar)
+[Portfolio](https://harshaldorlikar.me) | [LinkedIn](https://linkedin.com/in/harshaldorlikar) | [X](https://x.com/harshaldorlikar) | [Reddit](https://www.reddit.com/user/DorlikarHarshal/)
