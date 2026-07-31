@@ -60,23 +60,7 @@ Infra       Vercel · Git · Docker
 Method      100% AI-assisted development since 2022
 ```
 
-<br/>
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshaldorlikar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C9A227&icon_color=C9A227&text_color=8b949e&include_all_commits=true" height="165" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Harshaldorlikar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=8b949e&dates=555555&stroke=0d1117" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshaldorlikar&bg_color=0d1117&color=8b949e&line=C9A227&point=C9A227&area=true&area_color=1a1400&hide_border=true&custom_title=Contribution+Activity" width="96%" />
-
-</div>
-
-<br/>
 
 ---
 
