@@ -66,7 +66,7 @@ Method      100% AI-assisted development since 2022
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshaldorlikar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C9A227&icon_color=C9A227&text_color=8b949e&ring_color=C9A227&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Harshaldorlikar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=C9A227&icon_color=C9A227&text_color=8b949e&include_all_commits=true" height="165" />
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshaldorlikar&theme=github-dark-blue&hide_border=true&background=0D1117&ring=C9A227&fire=C9A227&currStreakLabel=C9A227&sideLabels=8b949e&dates=555555&stroke=0d1117" height="165" />
 
