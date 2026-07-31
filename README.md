@@ -35,7 +35,7 @@ A single person operating this way can ship at the speed of a full engineering t
 | 🟡 | **[A-41 Housing](https://a41housing.com)** | Premium real estate web app. Fully booked the property before renovations even finished. | `LIVE` |
 | ⚪ | **[EdAI](https://youtu.be/4cnpDlm0wxw)** | Turns static textbooks into interactive, game-like micro courses using AI agents. | `DEMO` |
 | ⚪ | **[GOAT](https://github.com/Harshaldorlikar/Goat/)** | Autonomous betting agent. Turned $5 into $71 in 4 days. Then lost it all. Perfect edge case study. | `OSS` |
-| ⚪ | **Cafe Platforms** | Full stack cafe ops — menus, ordering, staff portal, live order tracking. Built for The Western Brew. | `CLIENT` |
+| ⚪ | **Cafe Platforms** | Full stack cafe ops: menus, ordering, staff portal, live order tracking. Built for The Western Brew. | `CLIENT` |
 | ⚪ | **Apex Gym Engine** | Member + admin platform for 3 local gyms. Workouts, diets, attendance, and lead gen. | `CLIENT` |
 
 <br/>
@@ -46,7 +46,7 @@ Every project started the same way. I described what I wanted. The AI built some
 
 The AI was never the bottleneck. The prompt was.
 
-I lived this specification gap hundreds of times before deciding to build the exact solution for it. Kosmo automatically injects expert guardrails, strict boundaries, and hidden reasoning loops — and verifies facts against current official documentation before generating a final deployable prompt.
+I lived this specification gap hundreds of times before deciding to build the exact solution for it. Kosmo automatically injects expert guardrails, strict boundaries, and hidden reasoning loops, and it verifies facts against current official documentation before generating a final deployable prompt.
 
 <br/>
 
