@@ -1,28 +1,40 @@
-# 👋 Hi, I'm Harshal Dorlikar
+# Harshal Dorlikar
 
-🚀 **Entrepreneur | Tech Enthusiast | Problem Solver**  
-I'm passionate about building solutions that make everyday life easier and more efficient. Currently, I'm working on **AgentOS**.
+**Founder of [Kosmo](https://askkosmo.com) | Turning ideas into flawless AI prompts.**
 
-## 🌟 About Me
-- **Age**: 21
-- **Currently Working On**: AGENTOS.
-- **Passionate About**: Technology, startups, and creating impactful products.
+I build things with AI. Then I noticed what keeps breaking. Now I am building the fix.
 
+---
 
-## 🛠️ Technologies & Tools
-- **Languages**: Python, Java, JavaScript, VBA
-- **Frameworks**: Flask, Node.js
-- **Tools**: Git, Docker, MySQL, MongoDB, Power BI, Bubble.io, Superbase, Antigravity
+### What I do
 
-## 📈 Current Focus
-- **Building**: A Runtime Layer for agents to operate on.
-- **Learning**: Business strategies for scaling startups.
-- **Exploring**: Data-driven decision-making to enhance customer experience.
+I have been building 100% with AI since November 2022. Not as a side experiment. As my primary method. I do not write code by hand. I describe what I want, and I work with AI until it exists.
 
-## 💡 Get in Touch
-- **LinkedIn**: [linkedin.com/in/harshaldorlikar](https://www.linkedin.com/in/harshaldorlikar)
-- **Twitter**: [@harshaldorlikar](https://twitter.com/harshaldorlikar)
--  **Email**: harshaldorlikar112@gmail.com
-- **Portfolio**: https://www.harshaldorlikar.me/
+A single person operating this way can ship at the speed of a full engineering team.
 
-Let's build something amazing together!
+### What I have shipped
+
+| Project | What it does |
+|---|---|
+| **[Kosmo](https://askkosmo.com)** | AI Prompt Compiler. Turns raw ideas into structured, tool-aware prompts grounded in live docs. |
+| **[A-41 Housing](https://a41housing.com)** | Premium real estate web app. Fully booked the property before renovations finished. |
+| **[EdAI](https://youtu.be/4cnpDlm0wxw)** | Turns static textbooks into interactive, game-like micro courses. |
+| **[GOAT](https://github.com/Harshaldorlikar/Goat/)** | Autonomous betting agent. Turned $5 into $71 in 4 days. Then lost it all. |
+| **Cafe & Gym Platforms** | Full stack operations and member utility apps for local businesses. |
+
+### Why I built Kosmo
+
+Every project started the same way. I would describe what I wanted. The AI would build something close but wrong. I would spend hours correcting assumptions I did not know I was making.
+
+The AI was never the bottleneck. The prompt was. I lived this specification gap hundreds of times before deciding to build the exact solution for it.
+
+Kosmo is an AI Prompt Compiler that automatically injects expert guardrails, strict boundaries, and hidden reasoning loops. It verifies facts against current official documentation before generating a final deployable prompt.
+
+---
+
+### Get in touch
+
+For personal stuff: **HarshalDorlikar112@gmail.com**
+For Kosmo: **harshal@askkosmo.com**
+
+[Portfolio](https://harshaldorlikar.me) | [LinkedIn](https://linkedin.com/in/harshaldorlikar) | [X](https://x.com/harshaldorlikar)
